@@ -12,17 +12,17 @@
 |base|岗位|链接|
 |---|---|---|
 |北京|后端开发工程师-Data|https://job.toutiao.com/s/JRLrEXv|
-|前端开发工程师-Data|https://job.toutiao.com/s/JRLYuyf|
-|大数据工程师-Data|https://job.toutiao.com/s/JRLhyg6|
-|算法工程师-Data|https://job.toutiao.com/s/JRLsqJe|
+|北京|前端开发工程师-Data|https://job.toutiao.com/s/JRLYuyf|
+|北京|大数据工程师-Data|https://job.toutiao.com/s/JRLhyg6|
+|北京|算法工程师-Data|https://job.toutiao.com/s/JRLsqJe|
 |上海|后端开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838840714525509901|
-|前端开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838841411019360526|
-|大数据工程师-Data|https://job.bytedance.com/campus/position/detail/6838854575941404941|
-|算法工程师-Data|https://job.bytedance.com/campus/position/detail/6838849412639230222|
+|上海|前端开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838841411019360526|
+|上海|大数据工程师-Data|https://job.bytedance.com/campus/position/detail/6838854575941404941|
+|上海|算法工程师-Data|https://job.bytedance.com/campus/position/detail/6838849412639230222|
 |南京|后端开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838854538688399630|
-|前端开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838854538688022798|
-|测试开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838854538687727886|
-|大数据工程师-Data|https://job.bytedance.com/campus/position/detail/6838854538687285518|
+|南京|前端开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838854538688022798|
+|南京|测试开发工程师-Data|https://job.bytedance.com/campus/position/detail/6838854538687727886|
+|南京|大数据工程师-Data|https://job.bytedance.com/campus/position/detail/6838854538687285518|
 
 全部岗位链接: https://job.toutiao.com/s/JRHdFBf
 
